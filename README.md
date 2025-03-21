@@ -53,7 +53,7 @@
 
  - docker-compose up -d
 
-> Сервис будет доступен по адресу: http://localhost:8080/students
+> Сервис будет доступен по адресу: http://localhost:8080/
 
 ### Альтернативный запуск:
 
@@ -63,7 +63,7 @@
 
  - java -jar target/api1-0.0.1-SNAPSHOT.jar
  
-> Сервис будет доступен по адресу: http://localhost:8080/students
+> Сервис будет доступен по адресу: http://localhost:8080/
  
 ## API документация
 
